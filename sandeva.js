@@ -4,7 +4,7 @@
 
 // GANTI nomor di bawah dengan nomor WhatsApp penjual
 // Format: "62xxxxxxxxxxx" (tanpa + dan tanpa 0 di depan)
-const WHATSAPP_NUMBER = "6281342074706";
+const WHATSAPP_NUMBER = "6285824376924";
 
 // Pesan default ketika tombol di klik
 const DEFAULT_MESSAGE =
